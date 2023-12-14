@@ -1,29 +1,23 @@
-## Alaya Tests
-Se comparte dos codigos: ``Prueba_Alaya_1`` aborda un ananlisis de distribucion  espacial de distintas operaciones mineras y 
-``Prueba_Alaya_2`` trabaja sobre un analisis de datos con el fin de construir un modelo de regresion para predecir escala de durezas de un set de minerales. 
+# Alaya Tests
+Este repositorio presenta dos códigos analíticos: Prueba_Alaya_1 se enfoca en el análisis de la distribución espacial de diversas operaciones mineras, mientras que Prueba_Alaya_2 aborda el análisis de datos para construir un modelo de regresión que predice la escala de dureza de un conjunto de minerales.
 
-### Contenido del Repositorio
-El repositorio posee el dataset ``Mineral Ores Around The World Cleaned.csv``, con el cual fue desarrollado el codigo ``Prueba_Alaya_1.ipynb`` y los dataset ``Artificial_Crystals_Dataset.csv`` y ``Mineral_Dataset_Supplementary_Info.csv`` con el cual 
-fue desarrollado las problematicas del codigo ``Prueba_Alaya_2.ipynb``. 
+## Contenido del Repositorio
+El repositorio incluye los siguientes conjuntos de datos:
 
-**Prueba_Alaya_1.ipynb**:
-* Descripción: Archivo Jupyter Notebook para el análisis espacial utilizando el dataset "Mineral Ores Around The World Cleaned.csv".
-* Uso: Muestra visualizaciones para entender espacialmente la distrivuciones de diferentes operaciones mineras. Se trabaja sobre frecuencia relativa de extracion de mineras opr tipo de operacion minera. Se muestra un metodo para localizar el vecino mas cercano de caracteristicas distintas. 
+* **Mineral Ores Around The World Cleaned.csv**:
+  * Descripción: Contiene registros de 3125 operaciones mineras en todo el mundo. Incluye variables que describen la ubicación y las funciones de las diversas operaciones mineras.
 
-**Prueba_Alaya_2.ipynb**:
-* Descripción: Archivo Jupyter Notebook para el análisis de datos y calibración de un modelo de regresión.
-* Uso: 
+* **Mineral_Dataset_Supplementary_Info.csv**:
+  * Descripción: Contiene información sobre 622 minerales con 11 variables descriptivas para cada uno. Este conjunto de datos es útil para la construcción de modelos predictivos relacionados con las características de los minerales.
 
-**Mineral_Ores_Around_The_World_Cleaned.csv**:
-* Descripción: Contiene registros de diferentes operaciones mineras a lo largo del mundo. 
+* **Artificial_Crystals_Dataset.csv**:
+  * Descripción: Contiene datos de 52 tipos de minerales con 13 variables características. Este conjunto de datos es relevante para el análisis de datos en Prueba_Alaya_2.
 
-**Mineral_Dataset_Supplementary_Info.csv***:
-* Descripción: Conteine informacion de 622 minerales con 11 caracteristicas. Util para generar modelos de prediccion de caracteristicas de minerales. 
+Además, se encuentran los siguientes archivos Jupyter Notebook:
 
-**Artificial_Crystals_Dataset.csv**:
-* Descripción: Contiene 52 tipos de minerales con 13 variables caracteristicos de ellos.   
+* **Prueba_Alaya_1.ipynb**:
+  * Descripción: Proporciona visualizaciones para comprender la distribución espacial de diferentes operaciones mineras. Incluye tablas de frecuencia relativa en la extracción de tipos de minerales para cada tipo de operación minera. Aborda métodos para localizar el
+    vecino más cercano con características distintas.
 
-Resultados y Conclusiones
-Si hay resultados significativos o conclusiones importantes en tus análisis, inclúyelos en esta sección.
-
-¡Espero que encuentres útil esta estructura! Personalízala según las necesidades específicas de tu proyecto.
+* **Prueba_Alaya_2.ipynb**:
+  * Descripción: Realiza un análisis de selección de variables para la construcción del modelo. Muestra análisis de identificación de clusters y detalla la construcción de un modelo de regresión, así como la interpretación de sus resultados.
