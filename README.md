@@ -1,5 +1,5 @@
 # Alaya Tests
-Este repositorio presenta dos códigos analíticos: Prueba_Alaya_1 se enfoca en el análisis de la distribución espacial de diversas operaciones mineras, mientras que Prueba_Alaya_2 aborda el análisis de datos para construir un modelo de regresión que predice la escala de dureza de un conjunto de minerales.
+Este repositorio presenta dos códigos analíticos: ``Prueba_Alaya_1`` se enfoca en el análisis de la distribución espacial de diversas operaciones mineras, mientras que ``Prueba_Alaya_2`` aborda el análisis de datos para construir un modelo de regresión que predice la escala de dureza de un conjunto de minerales.
 
 ## Contenido del Repositorio
 El repositorio incluye los siguientes conjuntos de datos:
