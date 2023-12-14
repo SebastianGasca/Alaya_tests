@@ -8,34 +8,22 @@ fue desarrollado las problematicas del codigo ``Prueba_Alaya_2.ipynb``.
 
 **Prueba_Alaya_1.ipynb**:
 * Descripción: Archivo Jupyter Notebook para el análisis espacial utilizando el dataset "Mineral Ores Around The World Cleaned.csv".
-* Uso: Proporciona visualizaciones y análisis espacial de los datos.
+* Uso: Muestra visualizaciones para entender espacialmente la distrivuciones de diferentes operaciones mineras. Se trabaja sobre frecuencia relativa de extracion de mineras opr tipo de operacion minera. Se muestra un metodo para localizar el vecino mas cercano de caracteristicas distintas. 
 
 **Prueba_Alaya_2.ipynb**:
 * Descripción: Archivo Jupyter Notebook para el análisis de datos y calibración de un modelo de regresión.
-* Uso: Utiliza los datasets "Mineral_Dataset_Supplementary_Info.csv" y "Artificial_Crystals_Dataset.csv". Proporciona detalles sobre la metodología y resultados obtenidos.
+* Uso: 
 
 **Mineral_Ores_Around_The_World_Cleaned.csv**:
-* Descripción: Dataset limpio utilizado en el análisis espacial.
+* Descripción: Contiene registros de diferentes operaciones mineras a lo largo del mundo. 
 
 **Mineral_Dataset_Supplementary_Info.csv***:
-* Descripción: Dataset utilizado en el análisis de datos y calibración de modelos.
+* Descripción: Conteine informacion de 622 minerales con 11 caracteristicas. Util para generar modelos de prediccion de caracteristicas de minerales. 
 
 **Artificial_Crystals_Dataset.csv**:
-* Descripción: Otro dataset utilizado en el análisis de datos y calibración de modelos.
-
-Instrucciones de Uso
-Proporciona instrucciones claras y concisas sobre cómo utilizar y ejecutar tus archivos Jupyter Notebook. Incluye cualquier configuración especial o dependencias necesarias.
+* Descripción: Contiene 52 tipos de minerales con 13 variables caracteristicos de ellos.   
 
 Resultados y Conclusiones
 Si hay resultados significativos o conclusiones importantes en tus análisis, inclúyelos en esta sección.
-
-Contribuciones
-Si estás dispuesto a aceptar contribuciones o sugerencias de otras personas, especifica cómo pueden contribuir al proyecto.
-
-Licencia
-Incluye detalles sobre la licencia del proyecto para informar a otros sobre cómo pueden utilizar tu código y datos.
-
-Contacto
-Proporciona información de contacto (por ejemplo, tu dirección de correo electrónico) para que otros puedan comunicarse contigo si tienen preguntas o comentarios sobre tu proyecto.
 
 ¡Espero que encuentres útil esta estructura! Personalízala según las necesidades específicas de tu proyecto.
