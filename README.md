@@ -1,7 +1,8 @@
 # Alaya Tests
 Este repositorio presenta dos códigos analíticos: ``Prueba_Alaya_1`` se enfoca en el análisis de la distribución espacial de diversas operaciones mineras, mientras que ``Prueba_Alaya_2`` aborda el análisis de datos para construir un modelo de regresión que predice la escala de dureza de un conjunto de minerales.
 
-Enlaces a sus versiones en Google Colab: 
+**Enlaces a sus versiones en Google Colab**: 
+
 [``Prueba_Alaya_1``](https://colab.research.google.com/drive/1BJTpoWOOLAxGqy_AQjmg5A7Ljbp74gwQ#scrollTo=jQ5bfOuxD9qp)
 [``Prueba_Alaya_2``](https://colab.research.google.com/drive/1MdwtBX_DpzCWTcg9QfWANon6tK2Ly2uB#scrollTo=y7ewzY56Da20&uniqifier=1)
 
